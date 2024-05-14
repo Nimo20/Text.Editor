@@ -39,4 +39,3 @@ registerRoute(
   })
 );
 
-// registerRoute();
